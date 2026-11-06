@@ -1,10 +1,10 @@
-**#Student Record Management System**
+**#Student Record Management System#**
 
-**##Description**
+**##Description##**
 
 A menu-driven Student Record Management System developed in C using Singly Linked Lists and Dynamic Memory Allocation. It provides operations to add, delete, display, modify, search, sort, and reverse student records, with file handling for data storage and retrieval.
 
-**##Features**
+**##Features##**
 
 -Add new student records with automatic roll number allocation.
 
@@ -24,7 +24,7 @@ A menu-driven Student Record Management System developed in C using Singly Linke
 
 -Technologies Used
 
-**##C Programming**
+**##C Programming##**
 
 -Singly Linked Lists
 
@@ -36,7 +36,7 @@ A menu-driven Student Record Management System developed in C using Singly Linke
 
 -Makefile
 
-**##Project Structure**
+**##Project Structure##**
 
 -student.h – Structure definition and function declarations.
 
@@ -55,6 +55,7 @@ A menu-driven Student Record Management System developed in C using Singly Linke
 -Makefile – Compile the project.
 
 Student-Record-Management-System/
+Student-Record-Management-System/
 │
 ├── student.h
 ├── stud_main.c
@@ -67,9 +68,9 @@ Student-Record-Management-System/
 ├── .gitignore
 └── README.md
 
-**#how to**
+**#how to#**
 
-**#Compilation and Execution**
+**#Compilation and Execution#**
 
 **#Compile:**
 
